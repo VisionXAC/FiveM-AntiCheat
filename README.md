@@ -1,5 +1,5 @@
 # FiveEye Anticheat
-FiveEye Anticheat was made by visibait and cristian/apollo. We aim to provide a high quality of service at a cheap cost, our anticheats current features can be found below
+FiveEye Anticheat was made by VisiBait and Cristian (Apolo). We aim to provide a high quality of service at a cheap cost, our anticheat's current features can be found below.
 
  
 
