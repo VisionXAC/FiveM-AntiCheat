@@ -38,6 +38,7 @@ FiveEye Anticheat was made by visibait and cristian/apollo. We aim to provide a 
 ⏩ Cloud Based Panel For Config + Management
 ⏩ Active Staff Team | English + Spanish
 ⏩ Unique Anticheat With Optimised Code
+⏩ Unique Ingame Admin System
 ```
 
 
