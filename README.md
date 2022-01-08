@@ -14,6 +14,7 @@ FiveEye Anticheat was made by VisiBait and Cristian (Apolo). We aim to provide a
 ⏩ Anti Vehicle Spawn
 ⏩ Anti Prop Spawn
 ⏩ Anti Particles
+⏩ Anti Trigger-Blocker
 
 -- OTHER DETECTIONS --
 ⏩ Anti Aimbot
