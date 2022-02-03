@@ -10,7 +10,7 @@ FiveEye Anticheat was made by VisiBait and Cristian (Apolo) We aim to provide a 
 ⏩ Anti Executers (Detects Eulen + rE + Desudo)
 ⏩ Anti Triggers
 ⏩ Anti Explosions
-⏩ Anti Ped Spawn
+⏩ Anti Ped Spawn 
 ⏩ Anti Vehicle Spawn
 ⏩ Anti Prop Spawn
 ⏩ Anti Particles
