@@ -58,5 +58,5 @@ Weekly: $20
 
 ### What Coding Language Is Your AC?
 
-We coded our anticheat in mainly JS but there is some lua 5.3
+We coded our anticheat in mainly JS but there is some LUA 5.3
 
